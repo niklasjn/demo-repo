@@ -4,4 +4,8 @@ Some description!
 
 ## Subheader
 
-Litt mer tekst.
+Mer tekst!
+
+## Lokal utvikling
+
+1. Kjør script.py i terminal
